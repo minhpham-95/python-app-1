@@ -1,0 +1,2 @@
+Component name: python-app-1
+Environemt name: dev
